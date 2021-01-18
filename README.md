@@ -1,3 +1,5 @@
+To Visit the MiniFlex : [Click Here](https://miniflix-1b1da.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
